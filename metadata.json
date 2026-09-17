@@ -1,0 +1,7 @@
+{
+  "name": "CareerBridge",
+  "description": "Unified career and livelihood guidance platform with adaptive roadmaps, explainable matching engine, live opportunities, government schemes, and mock interviews.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
